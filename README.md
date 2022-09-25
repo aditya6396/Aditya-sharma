@@ -1,3 +1,4 @@
+[![MasterHead](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <img align="right" alt="Coding" width="400" src=https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya6396&label=Profile%20views&color=0e75b6&style=flat" alt="aditya6396" /> </p>
